@@ -1,0 +1,48 @@
+C:\Users\11amassa\AppData\Local\Temporary Projects\Card Game\bin\Debug\Card Game.exe
+C:\Users\11amassa\AppData\Local\Temporary Projects\Card Game\bin\Debug\Card Game.pdb
+C:\Users\11amassa\AppData\Local\Temporary Projects\Card Game\bin\Debug\Card Game.xml
+C:\Users\11amassa\AppData\Local\Temporary Projects\Card Game\obj\x86\Debug\Card_Game.Form1.resources
+C:\Users\11amassa\AppData\Local\Temporary Projects\Card Game\obj\x86\Debug\Card_Game.Resources.resources
+C:\Users\11amassa\AppData\Local\Temporary Projects\Card Game\obj\x86\Debug\Card Game.vbproj.GenerateResource.Cache
+C:\Users\11amassa\AppData\Local\Temporary Projects\Card Game\obj\x86\Debug\Card Game.exe
+C:\Users\11amassa\AppData\Local\Temporary Projects\Card Game\obj\x86\Debug\Card Game.xml
+C:\Users\11amassa\AppData\Local\Temporary Projects\Card Game\obj\x86\Debug\Card Game.pdb
+C:\Users\11amassa\Documents\Visual Studio 2010\Projects\Card Game\Card Game\obj\x86\Debug\Card Game.exe
+C:\Users\11amassa\Documents\Visual Studio 2010\Projects\Card Game\Card Game\obj\x86\Debug\Card Game.xml
+C:\Users\11amassa\Documents\Visual Studio 2010\Projects\Card Game\Card Game\obj\x86\Debug\Card Game.pdb
+C:\Users\11amassa\Documents\Visual Studio 2010\Projects\Card Game\Card Game\bin\Debug\Card Game.exe
+C:\Users\11amassa\Documents\Visual Studio 2010\Projects\Card Game\Card Game\bin\Debug\Card Game.pdb
+C:\Users\11amassa\Documents\Visual Studio 2010\Projects\Card Game\Card Game\bin\Debug\Card Game.xml
+C:\Users\11amassa\Documents\Visual Studio 2010\Projects\Card Game\Card Game\obj\x86\Debug\Card_Game.Resources.resources
+C:\Users\11amassa\Documents\Visual Studio 2010\Projects\Card Game\Card Game\obj\x86\Debug\Card Game.vbproj.GenerateResource.Cache
+C:\Users\11amassa\Documents\Visual Studio 2010\Projects\Card Game\Card Game\obj\x86\Debug\Card_Game.Adventure.resources
+C:\Users\11amassa\Documents\Visual Studio 2010\Projects\Card Game\Card Game\obj\x86\Debug\Card_Game.Probability.resources
+C:\Users\11amassa\Documents\Visual Studio 2010\Projects\Card Game\Card Game\obj\x86\Debug\Card_Game.Modes.resources
+C:\Users\aptma\Desktop\Card Game\Card Game\obj\x86\Debug\Card Game.exe
+C:\Users\aptma\Desktop\Card Game\Card Game\obj\x86\Debug\Card Game.xml
+C:\Users\aptma\Desktop\Card Game\Card Game\obj\x86\Debug\Card Game.pdb
+C:\Users\aptma\Desktop\Card Game\Card Game\bin\Debug\Card Game.exe
+C:\Users\aptma\Desktop\Card Game\Card Game\bin\Debug\Card Game.pdb
+C:\Users\aptma\Desktop\Card Game\Card Game\bin\Debug\Card Game.xml
+C:\Users\aptma\Desktop\Card Game\Card Game\obj\x86\Debug\Card_Game.Adventure.resources
+C:\Users\aptma\Desktop\Card Game\Card Game\obj\x86\Debug\Card_Game.Resources.resources
+C:\Users\aptma\Desktop\Card Game\Card Game\obj\x86\Debug\Card_Game.Probability.resources
+C:\Users\aptma\Desktop\Card Game\Card Game\obj\x86\Debug\Card_Game.Modes.resources
+C:\Users\aptma\Desktop\Card Game\Card Game\obj\x86\Debug\Card Game.vbproj.GenerateResource.Cache
+C:\Users\11amassa\Desktop\Card Game\Card Game\obj\x86\Debug\Card Game.exe
+C:\Users\11amassa\Desktop\Card Game\Card Game\obj\x86\Debug\Card Game.xml
+C:\Users\11amassa\Desktop\Card Game\Card Game\obj\x86\Debug\Card Game.pdb
+C:\Users\11amassa\Desktop\Card Game\Card Game\bin\Debug\Card Game.exe
+C:\Users\11amassa\Desktop\Card Game\Card Game\bin\Debug\Card Game.pdb
+C:\Users\11amassa\Desktop\Card Game\Card Game\bin\Debug\Card Game.xml
+C:\Users\11amassa\Desktop\Card Game\Card Game\obj\x86\Debug\Card_Game.Adventure.resources
+C:\Users\11amassa\Desktop\Card Game\Card Game\obj\x86\Debug\Card_Game.Resources.resources
+C:\Users\11amassa\Desktop\Card Game\Card Game\obj\x86\Debug\Card_Game.Probability.resources
+C:\Users\11amassa\Desktop\Card Game\Card Game\obj\x86\Debug\Card_Game.Modes.resources
+C:\Users\11amassa\Desktop\Card Game\Card Game\obj\x86\Debug\Card Game.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\ICS3UB\2015-16 student work\CardGame\Alex\Card Game\obj\x86\Debug\Card Game.exe
+C:\Users\David\Documents\ICS3UB\2015-16 student work\CardGame\Alex\Card Game\obj\x86\Debug\Card Game.xml
+C:\Users\David\Documents\ICS3UB\2015-16 student work\CardGame\Alex\Card Game\obj\x86\Debug\Card Game.pdb
+C:\Users\aptma\Desktop\CardGame\Card Game\obj\x86\Debug\Card Game.exe
+C:\Users\aptma\Desktop\CardGame\Card Game\obj\x86\Debug\Card Game.xml
+C:\Users\aptma\Desktop\CardGame\Card Game\obj\x86\Debug\Card Game.pdb
